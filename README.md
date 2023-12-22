@@ -1,16 +1,25 @@
-### Hi there 👋
+# 𝙷𝚎𝚕𝚕𝚘👋 𝙸 𝚊𝚖 𝚂𝚒𝚛𝚞𝚒
 
-<!--
-**siruiii/siruiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌻: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 📖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙸𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚟𝚎 𝙼𝚎𝚍𝚒𝚊 𝙰𝚛𝚝𝚜 @𝙽𝚈𝚄 𝚃𝚒𝚜𝚌𝚑 𝚂𝚌𝚑𝚘𝚘𝚕 𝚘𝚏 𝚝𝚑𝚎 𝙰𝚛𝚝𝚜
+- 💻 𝚖𝚒𝚗𝚘𝚛𝚒𝚗𝚐 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙼𝚊𝚝𝚑𝚎𝚖𝚊𝚝𝚒𝚌𝚜
+
+
+## 🕹️: 𝚁𝚎𝚌𝚎𝚗𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+- 🎲 𝙽𝚞𝚖𝚋𝚎𝚛 𝚊 𝙽𝚞𝚖𝚋𝚎𝚛
+  - 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚟𝚎 𝚘𝚗𝚕𝚒𝚗𝚎 𝚐𝚊𝚖𝚎 [𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗](https://vimeo.com/766104826?share=copy)
+  - 𝚝𝚘𝚘𝚕𝚜 𝚞𝚜𝚎𝚍: 𝚙𝟻.𝚓𝚜, p5𝚕𝚒𝚟𝚎media.𝚓𝚜, 𝙷𝚃𝙼𝙻/𝙲𝚂𝚂
+  - 𝚏𝚊𝚕𝚕𝟸𝟶𝟸𝟸: 𝙷𝚢𝚙𝚎𝚛𝚌𝚒𝚗𝚎𝚖𝚊 + 𝙲𝚛𝚎𝚊𝚝𝚒𝚟𝚎
+  <!--  [𝙿𝙻𝙰𝚈](https://editor.p5js.org/sirui/full/6a3npaiNZ) -->
+ 
+- ⭕️ 𝙾
+  - 𝙰𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 [𝚆𝙰𝚃𝙲𝙷](https://vimeo.com/766104826?share=copy)
+  - 𝚝𝚘𝚘𝚕𝚜 𝚞𝚜𝚎𝚍: 𝙰𝚍𝚘𝚋𝚎 𝙰𝚏𝚝𝚎𝚛 𝙴𝚏𝚏𝚎𝚌𝚝𝚜, 𝙿𝚛𝚎𝚖𝚒𝚎𝚛𝚎, 𝙿𝚑𝚘𝚝𝚘𝚜𝚑𝚘𝚙
+  - 𝚏𝚊𝚕𝚕𝟸𝟶𝟸𝟸: 𝙷𝚢𝚙𝚎𝚛𝚌𝚒𝚗𝚎𝚖𝚊, 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎𝚍 𝚠𝚒𝚝𝚑 𝚉𝚘𝚎𝚢 𝚉𝚑𝚊𝚗𝚐
+    
+- 🌊 𝙴𝙼𝙾𝙲𝙴𝙰𝙽
+  - 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚟𝚎 𝚠𝚎𝚋𝚜𝚒𝚝𝚎 [𝙿𝙻𝙰𝚈](https://emocean.glitch.me/aStart.html)
+  - 𝚝𝚘𝚘𝚕𝚜 𝚞𝚜𝚎𝚍: 𝚙𝟻.𝚓𝚜, 𝚖𝚕𝟻.𝚓𝚜, 𝙷𝚃𝙼𝙻/𝙲𝚂𝚂, 𝚕𝚘𝚠𝙳𝙱, 𝙽𝚘𝚍𝚎.𝚓𝚜
+  - 𝚏𝚊𝚕𝚕𝟸𝟶𝟸𝟹: 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚏𝚘𝚛 𝙰𝚛𝚝𝚜 + 𝙲𝚘𝚖𝚖𝚞𝚗𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 𝚊𝚗𝚍 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢
